@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1703347855822,2057,Create User Post Request,200,OK,Thread Group 1-1,text,true,,398,404,1,1,https://petstore.swagger.io/v2/user,2055,0,1909
+1703347858144,130,Create User Post Request,200,OK,Thread Group 1-1,text,true,,398,390,1,1,https://petstore.swagger.io/v2/user,130,0,0

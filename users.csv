@@ -1,0 +1,3 @@
+username, firstName, lastName, email, password, phone, userStatus
+NS, Nastya, Starchenko, nastyastarchenko@gmail.com, nastya123, +380672222222, 1
+II, Ivan, Ivanov, ivanivatov@gmail.com, ivan123, +380673333333, 0

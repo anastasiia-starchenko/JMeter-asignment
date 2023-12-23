@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 2,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1093.5,
+    "medianResTime" : 1093.5,
+    "minResTime" : 130.0,
+    "maxResTime" : 2057.0,
+    "pct1ResTime" : 2057.0,
+    "pct2ResTime" : 2057.0,
+    "pct3ResTime" : 2057.0,
+    "throughput" : 0.8156606851549756,
+    "receivedKBytesPerSec" : 0.317024367862969,
+    "sentKBytesPerSec" : 0.31622782422512236
+  },
+  "Create User Post Request" : {
+    "transaction" : "Create User Post Request",
+    "sampleCount" : 2,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1093.5,
+    "medianResTime" : 1093.5,
+    "minResTime" : 130.0,
+    "maxResTime" : 2057.0,
+    "pct1ResTime" : 2057.0,
+    "pct2ResTime" : 2057.0,
+    "pct3ResTime" : 2057.0,
+    "throughput" : 0.8156606851549756,
+    "receivedKBytesPerSec" : 0.317024367862969,
+    "sentKBytesPerSec" : 0.31622782422512236
+  }
+}
